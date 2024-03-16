@@ -1,0 +1,12 @@
+/* .body{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.main {
+    background-color: rgba(128, 128, 128, 0.075);
+}
+
+.start-15 {
+    left: 15%;
+}
